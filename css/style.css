@@ -76,3 +76,7 @@ li a {
 .active {
   background: #07c5f5;
 }
+.header-image{
+  border-top: #000;
+  margin: 50px;
+}
